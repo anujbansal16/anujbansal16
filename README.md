@@ -2,31 +2,34 @@
 
 
 <a href="https://twitter.com/anuj_bansal16">
-  <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" title="Twitter" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anujbansal16/">
-  <img align="left" alt="Anuj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" title="LinkdeIN" alt="Anuj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/thatsanuj/">
-  <img align="left" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" title="Instagram" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.fiverr.com/anujbansal16">
-  <img align="left" alt="Govind's Freelancing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/fiverr.svg" />
+  <img align="left" title="Freelancing" alt="Govind's Freelancing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/fiverr.svg" />
 </a>
 <a href="https://www.hackerrank.com/anujbansal16">
-  <img align="left" alt="Anuj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+  <img align="left" title="Hackerrank" alt="Anuj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 <a href="https://www.hackerearth.com/@anujbansal16">
-  <img align="left" alt="Anuj's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
+  <img align="left" title="HackerEarth" alt="Anuj's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
 </a>
 <a href="https://www.codechef.com/users/anujbansal16">
-  <img align="left" alt="Anuj's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+  <img align="left" title="CodeChef" alt="Anuj's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/Anuj_Bansal">
-  <img align="left" alt="Anuj's CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
+  <img align="left" title="CodeForces" alt="Anuj's CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
 </a>
 <a href="https://leetcode.com/anujbansal16/">
-  <img align="left" alt="Anuj's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+  <img align="left" title="LeetCode" alt="Anuj's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
+<a href="https://drive.google.com/file/d/1tMljqcyl3YghrGyrQScWD-5uwhbL8V8E/view?usp=sharing">
+  <img align="right" title="Resume" alt="Anuj's Resume" width="82px" src="https://visualpharm.com/assets/707/Open%20Resume-595b40b85ba036ed117dc31c.svg" />
 </a>
 
 <br />
