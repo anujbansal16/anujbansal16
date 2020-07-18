@@ -49,7 +49,7 @@ Beside's developing stuff, I enjoy listening music 🎧, and cooking. :man_cook:
 
 **Talking about Personal Stuffs/Achievements:**
 
-- 🎓 In Dean List 1 of IIIT-Hyderabad 👨🏽‍💻 <!--[@Dummy](link)-->
+- 🎓 Gold Medalist of MTech.CSE 2020 Batch 👨🏽‍💻 [@IIIT--Hyderabad](https://www.iiit.ac.in/)
 - 🥇 Secured 8th position in [may-circuit-2020](https://www.hackerearth.com/challenges/competitive/may-circuits-20/leaderboard/) challenge on [hackerearth](https://www.hackerearth.com/challenges/competitive/may-circuits-20/leaderboard/) 🙍
 - 🥇 Amongst 99.19 percentile in Gate-CS-2017 (AIR-777)
 - 👨‍💻 Software Developer Intern [@Mentor Graphics](https://www.mentor.com/india/)
