@@ -28,7 +28,7 @@
 <a href="https://leetcode.com/anujbansal16/">
   <img align="left" title="LeetCode" alt="Anuj's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
-<a href="https://drive.google.com/file/d/1tMljqcyl3YghrGyrQScWD-5uwhbL8V8E/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1uNr6PS3hihSSfYj5k4A2yhnSxJ0Zwyol/view?usp=sharing">
   <img align="right" title="Resume" alt="Anuj's Resume" width="82px" src="https://visualpharm.com/assets/707/Open%20Resume-595b40b85ba036ed117dc31c.svg" />
 </a>
 
