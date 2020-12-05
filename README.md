@@ -4,6 +4,7 @@
 <a href="https://twitter.com/anuj_bansal16">
   <img align="left" title="Twitter" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/anujbansal16/">
   <img align="left" title="LinkdeIN" alt="Anuj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -27,6 +28,9 @@
 </a>
 <a href="https://leetcode.com/anujbansal16/">
   <img align="left" title="LeetCode" alt="Anuj's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
+<a href="https://dev.to/anujbansal16">
+  <img  align="left" title="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anuj Bansal's DEV Profile" >
 </a>
 <a href="https://drive.google.com/file/d/1uNr6PS3hihSSfYj5k4A2yhnSxJ0Zwyol/view?usp=sharing">
   <img align="right" title="Resume" alt="Anuj's Resume" width="82px" src="https://visualpharm.com/assets/707/Open%20Resume-595b40b85ba036ed117dc31c.svg" />
