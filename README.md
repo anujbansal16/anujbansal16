@@ -1,36 +1,36 @@
-### Hey 👋, I'm [Anuj!](https://www.fiverr.com/anujbansal16)
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hello World, I'm [Anuj!](https://www.linkedin.com/in/anujbansal16/)
 
 
 <a href="https://twitter.com/anuj_bansal16">
-  <img align="left" title="Twitter" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" title="Twitter" alt="Anuj's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/anujbansal16/">
-  <img align="left" title="LinkdeIN" alt="Anuj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" title="LinkdeIN" alt="Anuj's LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/thatsanuj/">
-  <img align="left" title="Instagram" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" title="Instagram" alt="Anuj's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.fiverr.com/anujbansal16">
-  <img align="left" title="Freelancing" alt="Govind's Freelancing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/fiverr.svg" />
+  <img align="left" title="Freelancing" alt="Govind's Freelancing" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/fiverr.svg" />
 </a>
 <a href="https://www.hackerrank.com/anujbansal16">
-  <img align="left" title="Hackerrank" alt="Anuj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+  <img align="left" title="Hackerrank" alt="Anuj's Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 <a href="https://www.hackerearth.com/@anujbansal16">
-  <img align="left" title="HackerEarth" alt="Anuj's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
+  <img align="left" title="HackerEarth" alt="Anuj's HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
 </a>
 <a href="https://www.codechef.com/users/anujbansal16">
-  <img align="left" title="CodeChef" alt="Anuj's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+  <img align="left" title="CodeChef" alt="Anuj's CodeChef" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/Anuj_Bansal">
-  <img align="left" title="CodeForces" alt="Anuj's CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
+  <img align="left" title="CodeForces" alt="Anuj's CodeForces" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
 </a>
 <a href="https://leetcode.com/anujbansal16/">
-  <img align="left" title="LeetCode" alt="Anuj's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+  <img align="left" title="LeetCode" alt="Anuj's LeetCode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
 <a href="https://dev.to/anujbansal16">
-  <img  align="left" title="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anuj Bansal's DEV Profile" >
+  <img  align="left" title="Dev" width="35px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anuj Bansal's DEV Profile" >
 </a>
 <a href="https://drive.google.com/file/d/1uNr6PS3hihSSfYj5k4A2yhnSxJ0Zwyol/view?usp=sharing">
   <img align="right" title="Resume" alt="Anuj's Resume" width="82px" src="https://visualpharm.com/assets/707/Open%20Resume-595b40b85ba036ed117dc31c.svg" />
@@ -38,8 +38,9 @@
 
 <br />
 <br />
+<br />
 
-Hi, I'm Anuj Bansal, a Computer Science Engineering 2020 graduate 🚀 from IIIT-Hyderabad.🙍 
+I'm a Senior Software Engineer [@Swiggy](https://careers.swiggy.com/#/about) , and a Computer Science Engineering 2020 masters graduate 🚀 from IIIT-Hyderabad.🙍 
 
 I tend to view myself as a GENERALIST since I try not to focus on any given technology as its just a matter of
 syntax.👓 
@@ -53,14 +54,17 @@ Beside's developing stuff, I enjoy listening music 🎧, and cooking. :man_cook:
 
 **Talking about Personal Stuffs/Achievements:**
 
+- 👨🏽‍💻 Senior Software Engineer  👨🏽‍💻 [@Swiggy](https://careers.swiggy.com/#/about)
+- :office: Former Software Engineer [@SAP Labs](https://www.sap.com/india/about/labs-india.html)
 - 🎓 Gold Medalist of MTech.CSE 2020 Batch 👨🏽‍💻 [@IIIT--Hyderabad](https://www.iiit.ac.in/)
-- 🥇 Secured 8th position in [may-circuit-2020](https://www.hackerearth.com/challenges/competitive/may-circuits-20/leaderboard/) challenge on [hackerearth](https://www.hackerearth.com/challenges/competitive/may-circuits-20/leaderboard/) 🙍
+- 🥇 Secured 8th position in [may-circuit-2020](https://www.hackerearth.com/challenges/competitive/may-circuits-20/leaderboard/) coding challenge on [hackerearth](https://www.hackerearth.com/challenges/competitive/may-circuits-20/leaderboard/) 🙍
 - 🥇 Amongst 99.19 percentile in Gate-CS-2017 (AIR-777)
 - 👨‍💻 Software Developer Intern [@Mentor Graphics](https://www.mentor.com/india/)
 - :office: Former Associate Software Engineer [@Accenture](https://www.accenture.com/in-en)
 - 🥇 Secured 65th State Rank in the finals of 6th Science Olympiad Foundation-International Mathematics Olympiad.
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: anuj.bansal16@gmail.com
+- 📫 How to reach me: <a href="mailto:email@example.com">Drop a mail</a>
+
 
 &nbsp;
 
@@ -69,7 +73,7 @@ Beside's developing stuff, I enjoy listening music 🎧, and cooking. :man_cook:
 <code><img height="30" src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" title="C++"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/python.svg" alt="Python" title="Python"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/java.svg" alt="Java" title="Java"  ></code>
-<code><img height="30" src="https://image.flaticon.com/icons/svg/2970/2970624.svg" alt="Machine Learning" title="Machine Learning"></code>
+<code><img height="30" src="https://hackr.io/tutorials/deep-learning/logo-deep-learning.svg?ver=1576625961" alt="Machine Learning" title="Machine Learning"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" title="Javascript"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/php.svg" alt="php" title="php"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" title="MySQL"></code>
